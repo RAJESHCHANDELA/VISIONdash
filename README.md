@@ -1,2 +1,9 @@
-# VISIONdash
-Developed an eye-catching admin dashboard using cutting-edge technologies like React.js, EJS, and Tailwind CSS. ● Implemented stunning data visualization with a variety of dynamic charts, including bar, pie, area, line, and financial charts. ● Enhanced productivity by integrating a calendar feature for efficient task scheduling and management. ●
+# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+![Shoppy](https://i.ibb.co/W6g39w3/image.png)
+
+## Introduction
+This is a code repository for the corresponding video tutorial.
+
+If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+
+## Launch your development career with project-based coaching - https://www.jsmastery.pro
